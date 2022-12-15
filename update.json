@@ -1,5 +1,5 @@
 {
-	"testing": false,
+	"testing": true,
 	"version": "1.13 Beta (#1)",
 	"url": "https://raw.githubusercontent.com/c0sui/13-GG/beta/13_GG.luac",
 	"changelog": [
