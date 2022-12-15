@@ -1,6 +1,6 @@
 {
 	"testing": true,
-	"url": "-",
+	"url": "https://raw.githubusercontent.com/c0sui/13-GG/beta/13_GG.luac",
 	"changelog": [
 		"Добавлена функция контроля за флудом в разных чатах. Подробнее в /amenu - Мониторинг - 2 страница - Контроль флуда",
 		"Команда /trp теперь работает на сервере Vice-City",
